@@ -35,7 +35,7 @@ Material adicional que no se ajusta a las categorías anteriores.
 * [MODULO2][ADD] Lista de modificaciones desde una perspectiva general
 ```
 
-#### Example
+#### EJemplo
 
 ```txt
 * [5][ADD] Teoría sobre redes convolucionales
@@ -44,6 +44,6 @@ Material adicional que no se ajusta a las categorías anteriores.
 ```
 
 
-# Contacto
+## Contacto
 
 Para cualquier duda, puede contactar con el [autor del curso](https://github.com/w-dan)
